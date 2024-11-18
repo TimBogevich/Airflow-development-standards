@@ -13,7 +13,7 @@
 ```yaml
 x-airflow-common:
   &airflow-common2-python3.10}
-  image: registry.gf/airflow/airflow:2.0.3
+  image: registry.com/airflow/airflow:2.0.3
   environment:
     &airflow-common-env
 ```
